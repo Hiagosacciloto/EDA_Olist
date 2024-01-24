@@ -6,7 +6,11 @@ Este projeto tem como propósito realizar uma Análise Exploratória de Dados do
 
 ## 🔎 Fonte dos dados
 O conjunto de dados do Olist utilizado, pode ser acessado no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
-
+## ⚙ Tecnologias Utilizadas
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 ## Algumas perguntas respondidas no Projeto:
 
 - Qual é o comportamento dos pedidos ao longo do tempo?
@@ -26,11 +30,7 @@ O conjunto de dados do Olist utilizado, pode ser acessado no [Kaggle](https://ww
 
 **Existe muitas outras perguntas e insights dentro do estudo, então para o melhor entendimento dos dados, recomendo a leitura do projeto.**
 
-## ⚙ Tecnologias Utilizadas
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
+
 ## Meus Projetos e Artigos associado ao Estudo
 _______________
 ## 📬 CONTATO
