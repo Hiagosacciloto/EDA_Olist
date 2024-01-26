@@ -77,6 +77,9 @@ Os conjuntos de dados do Olist abrem muitas possibilidades de estudos pela sua c
 - Como a quantidade de pedidos evoluem ao longo do tempo por região do Brasil? E como o Total de vendas é distribuido entre as regiões?
 <img src="https://github.com/Hiagosacciloto/EDA_Olist/assets/128402589/25f31ecd-fc8e-4d51-b603-7756f3973870" width="600">
 
+ - Qual a evolução do valor total vendido, para pedidos entregues, ao longo do tempo ? E o ticket médio ?
+<img src="https://github.com/Hiagosacciloto/EDA_Olist/assets/128402589/b8c40cdb-e5f2-4b66-b4a9-1872d6cbbbc0" width="600">
+
 - Quais os melhores estados para comprar no Brasil? Uma análise sobre vendas, frete e prazo de entrega.
 <img src="https://github.com/Hiagosacciloto/EDA_Olist/assets/128402589/f040953a-8358-4ab2-af38-4df7de1480b7" width="600">
 
@@ -86,9 +89,9 @@ Os conjuntos de dados do Olist abrem muitas possibilidades de estudos pela sua c
 - Quanto aos clientes que realizaram segunda compra, como é a distribuição desses cliente para realizar a próxima compra?
 <img src="https://github.com/Hiagosacciloto/EDA_Olist/assets/128402589/dde44e1f-a2ab-46de-8c49-09f683a7f1b5" width="600">
 
-**Existe muitas outras perguntas e insights dentro do estudo, então para o melhor entendimento dos dados, recomendo a leitura do projeto.**
 
 
+**Existe muitas outras perguntas e insights dentro do estudo, então para o melhor entendimento dos dados e da análise, recomendo a leitura do projeto.**
 ## Meus Projetos e Artigos associado ao Estudo
 _______________
 ## 📬 CONTATO
