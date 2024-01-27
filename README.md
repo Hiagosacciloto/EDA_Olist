@@ -2,7 +2,7 @@
 <img src="https://github.com/Hiagosacciloto/Portfolio/assets/128402589/55e606eb-5f9e-44b3-afd3-d2a8c0579590" width="450">
 
 ## 🎯 Objetivo do projeto
-Este projeto tem como propósito realizar uma Análise Exploratória de Dados do Olist, visando aprofundar a compreensão sobre o cenário do comércio eletrônico brasileiro. O obejtivo é decifrar padrões, identificar tendências e, consequentemente, revelar oportunidades estratégicas que possam ser exploradas para otimizar a operação do Olist.
+Este [projeto](https://github.com/Hiagosacciloto/EDA_Olist/blob/main/Olist.ipynb) tem como propósito realizar uma Análise Exploratória de Dados do Olist, visando aprofundar a compreensão sobre o cenário do comércio eletrônico brasileiro. O objetivo é decifrar padrões, identificar tendências e, consequentemente, revelar oportunidades estratégicas que possam ser exploradas para otimizar a operação do Olist. Para mais detalhes, [acesse aqui!](https://github.com/Hiagosacciloto/EDA_Olist/blob/main/Olist.ipynb)
 
 ## 🔎 Fonte dos dados
 O conjunto de dados do Olist utilizado, pode ser acessado no [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
@@ -91,7 +91,7 @@ Os conjuntos de dados do Olist abrem muitas possibilidades de estudos pela sua c
 
 
 
-**Existe muitas outras perguntas e insights dentro do estudo, então para o melhor entendimento dos dados e da análise, recomendo a leitura do projeto.**
+**Existe muitas outras perguntas e insights dentro do [estudo](https://github.com/Hiagosacciloto/EDA_Olist/blob/main/Olist.ipynb), então para o melhor entendimento dos dados e da análise, recomendo a leitura do [projeto, aqui!](https://github.com/Hiagosacciloto/EDA_Olist/blob/main/Olist.ipynb)**
 ## Meus Projetos e Artigos associado ao Estudo
 _______________
 ## 📬 CONTATO
